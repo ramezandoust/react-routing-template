@@ -9,3 +9,10 @@
 - 👉 use `npm start` to run app
 - 👉 In this app, `react 18` has been used
 - 👉 In this app, `react-router-dom 6` has been used
+
+### Screenshot:
+
+<div style="width:100%; height:auto; display:flex; flex-direction:row; gap:16px;">
+    <img src="https://raw.githubusercontent.com/ramezandoust/react-routing-template/main/screenshot/blog.png" width="50%" height="100%" />
+    <img src="https://raw.githubusercontent.com/ramezandoust/react-routing-template/main/screenshot/post.png" width="50%" height="100%" />
+</div>

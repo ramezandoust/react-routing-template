@@ -1,7 +1,5 @@
 <h1 align="left">Hiii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<br>
-
 ## 👀 APP DETAILS
 
 - 👉 project name: <span style="color:#d6850b">react routing template with blog handle</span>
@@ -12,7 +10,17 @@
 
 ### Screenshot:
 
-<div style="width:100%; height:auto; display:flex; flex-direction:row; gap:16px;">
-    <img src="https://raw.githubusercontent.com/ramezandoust/react-routing-template/main/screenshot/blog.png" width="50%" height="100%" />
-    <img src="https://raw.githubusercontent.com/ramezandoust/react-routing-template/main/screenshot/post.png" width="50%" height="100%" />
+<div style="width:100%; display:flex; flex-direction:row; gap:10px;">
+<img
+  src="screenshot/blog.png"
+  alt="Blog"
+  title="Blog"
+  style=" max-width: 300px">
+
+<img
+  src="screenshot/post.png"
+  alt="Post"
+  title="Post"
+  style="max-width: 300px">
+
 </div>

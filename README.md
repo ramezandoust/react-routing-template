@@ -2,7 +2,7 @@
 
 ## 👀 APP DETAILS
 
-- 👉 project name: <span style="color:#d6850b">react routing template with blog handle</span>
+- 👉 project name: <span style="color:#d6850b">react routing template with serverside blog post handle</span>
 - 👉 project description: <span style="color:#d6850b">This program consists of 6 pages: header, footer, content, dashboard, blog and post. The blog page contains the list of posts. The post page also contains the details of each post.</span>
 - 👉 use `npm start` to run app
 - 👉 In this app, `react 18` has been used

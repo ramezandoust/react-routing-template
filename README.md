@@ -15,12 +15,12 @@
   src="screenshot/blog.png"
   alt="Blog"
   title="Blog"
-  style=" max-width: 300px">
+  style=" max-width: 300px" width="300px">
 
 <img
   src="screenshot/post.png"
   alt="Post"
   title="Post"
-  style="max-width: 300px">
+  style="max-width: 300px" width="300px">
 
 </div>
